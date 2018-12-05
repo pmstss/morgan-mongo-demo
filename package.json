@@ -1,6 +1,6 @@
 {
   "name": "morgan-mongo-demo",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Demo server for morgan-mongo middleware with geo-ip functionality",
   "main": "dist/server.js",
   "types": "dist/server.d.ts",

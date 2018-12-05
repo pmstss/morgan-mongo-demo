@@ -3,7 +3,7 @@
 
 Demo server for [morgan-mongo middleware](https://github.com/pmstss/morgan-mongo) with additional geo-ip functionality.
 
-[Live Demo](https://morgan-mongo-demo.herokuapp.com)
+[Live Demo](https://morgan-mongo.herokuapp.com)
 
 ### Local deployment
     git clone https://github.com/pmstss/morgan-mongo-demo
