@@ -7,7 +7,6 @@
   "scripts": {
     "build": "npm run lint && tsc",
     "lint": "tslint -c tslint.json --project tsconfig.json",
-    "test": "./node_modules/.bin/mocha -r ts-node/register test/**/*.spec.ts",
     "heroku-postbuild": "npm run build",
     "start": "node dist/server.js",
     "watch": "npm run build && tsc -w",

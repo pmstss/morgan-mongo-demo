@@ -43,6 +43,7 @@ Sample output of geo data:
 
 </details>
 
+
 Note: local ips are filtered with [is-local-ip](https://github.com/DylanPiercey/is-local-ip) library, geo data for them will contain only `local: true` flag.
 
 It will records geo-ip data to local mongo (with default connection string mongodb://localhost:27017/morgan-mongo) into geoip collection (can be tuned either in sources or by setting environment variables).
